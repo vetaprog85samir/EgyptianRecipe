@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886782590105",
+    "project_id": "egyptian-recipe",
+    "storage_bucket": "egyptian-recipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886782590105:android:77c3ec6820ac4c1ca84c08",
+        "android_client_info": {
+          "package_name": "com.example.egyptianrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886782590105-g96oat2ton1su4d4cgg8cr5vdulof4fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egyptianrecipe",
+            "certificate_hash": "b6fcabaaac60cc657b7cc3a70c768d612b13ec41"
+          }
+        },
+        {
+          "client_id": "886782590105-7id8trkra26cdqpdtnttjj6l0d63b105.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGbvP-vDwSOEbhuklYM1ztpVbARV2-6fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886782590105-7id8trkra26cdqpdtnttjj6l0d63b105.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
